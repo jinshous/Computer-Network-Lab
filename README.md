@@ -1,2 +1,2 @@
-# Computer-Network-Lab-1
+# Computer-Network-Lab
 homework
